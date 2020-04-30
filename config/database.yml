@@ -1,0 +1,5 @@
+development: &default
+  adapter: postgresql
+  encoding: UTF8
+  pool: 5
+  database: metka_bench
