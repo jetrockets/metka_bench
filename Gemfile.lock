@@ -87,7 +87,7 @@ GEM
       mimemagic (~> 0.3.2)
     memory_profiler (0.9.14)
     method_source (1.0.0)
-    metka (1.0.3)
+    metka (2.0.3)
       dry-configurable (>= 0.8)
       rails (>= 5.1)
     mimemagic (0.3.4)
@@ -100,7 +100,7 @@ GEM
     pg (1.2.3)
     puma (4.3.3)
       nio4r (~> 2.0)
-    rack (2.2.2)
+    rack (2.2.3)
     rack-test (1.1.0)
       rack (>= 1.0, < 3)
     rails (6.0.2.2)
@@ -145,7 +145,7 @@ GEM
       thread_safe (~> 0.1)
     websocket-driver (0.7.1)
       websocket-extensions (>= 0.1.0)
-    websocket-extensions (0.1.4)
+    websocket-extensions (0.1.5)
     zeitwerk (2.3.0)
 
 PLATFORMS
